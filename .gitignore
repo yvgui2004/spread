@@ -1,0 +1,15 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# App runtime
+config.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
